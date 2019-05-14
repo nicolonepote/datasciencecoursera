@@ -23,12 +23,14 @@ summary(cars)
 ```{r}
 print("hello world")
 ```
-  look
-  at
-  my
-  *horse*
+look  
+bullets  
+at  
+my  
+*horse*
 
 
+--strike--
 ## Including Plots
 
 You can also embed plots, for example:
